@@ -1,1 +1,0 @@
-# indopaket-bot
